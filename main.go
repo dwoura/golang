@@ -1,9 +1,9 @@
 package main
 
-import (
-	"golang/exam/algo"
-)
+import "golang/exam/algo"
 
 func main() {
-	algo.AlternatingPrintingofNumbersAndLetters()
+	//algo.AlternatingPrintingofNumbersAndLetters()
+	//algo.ReverString()
+	algo.IsEqualsBeforeSortString()
 }

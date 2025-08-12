@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7d9d083-0161-40d1-b9db-332227972ad6" name="更改" comment="" />
+    <list default="true" id="d7d9d083-0161-40d1-b9db-332227972ad6" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/exam/algo/000模板.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/algo/03-翻转字符串.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/algo/04-判断两个给定的字符串排序后是否一致.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/algo/02-判断字符串中字符是否全都不同.go" beforeDir="false" afterPath="$PROJECT_DIR$/exam/algo/02-判断字符串中字符是否全都不同.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,21 +28,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dwoura"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dwoura&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dwoura/golang",
-    "accountId": "b7a57a72-1a16-4523-bcdb-27a40eb5d145"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dwoura/golang&quot;,
+    &quot;accountId&quot;: &quot;b7a57a72-1a16-4523-bcdb-27a40eb5d145&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="30zzRTRavB4OjFbs6F9qi4EMWDd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,6 +57,7 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "/Users/dwoura/Desktop/Code/学习/go 后端开发学习/golang",
@@ -68,7 +76,16 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go 构建.go build golang">
+    <configuration name="go build 04-判断两个给定的字符串排序后是否一致.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="golang" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/exam/algo/04-判断两个给定的字符串排序后是否一致.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build golang" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golang" />
       <working_directory value="$PROJECT_DIR$" />
@@ -81,6 +98,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Go 构建.go build golang" />
+        <item itemvalue="Go 构建.go build 04-判断两个给定的字符串排序后是否一致.go" />
       </list>
     </recent_temporary>
   </component>
