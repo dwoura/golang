@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7d9d083-0161-40d1-b9db-332227972ad6" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/exam/algo/000模板.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/algo/03-翻转字符串.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/algo/04-判断两个给定的字符串排序后是否一致.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/algo/05-字符串替换问题.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/algo/02-判断字符串中字符是否全都不同.go" beforeDir="false" afterPath="$PROJECT_DIR$/exam/algo/02-判断字符串中字符是否全都不同.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/algo/04-判断两个给定的字符串排序后是否一致.go" beforeDir="false" afterPath="$PROJECT_DIR$/exam/algo/04-判断两个给定的字符串排序后是否一致.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

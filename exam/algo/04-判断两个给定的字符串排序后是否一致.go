@@ -23,7 +23,7 @@ func isEqualsBeforeSortString(s1 string, s2 string) bool {
 	if sl1 > 5000 || sl2 > 5000 || sl1 != sl2 {
 		return false
 	}
-	
+
 	for _, v := range s1 {
 		if strings.Count(s1, string(v)) != strings.Count(s2, string(v)) {
 			return false
