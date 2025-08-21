@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7d9d083-0161-40d1-b9db-332227972ad6" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/exam/algo/000-非算法（代码问题）.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/algo/00-README/06-机器人坐标问题.go" beforeDir="false" afterPath="$PROJECT_DIR$/exam/algo/06-机器人坐标问题.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/algo/000模板.go" beforeDir="false" afterPath="$PROJECT_DIR$/exam/algo/000-字符串输入模板.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/algo/000-代码问题分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/exam/algo/000-代码问题分析.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

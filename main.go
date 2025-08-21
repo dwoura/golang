@@ -8,4 +8,5 @@ func main() {
 	//algo.IsEqualsBeforeSortString()
 	//algo.StringReplace()
 	algo.RobotCoordinate()
+
 }
